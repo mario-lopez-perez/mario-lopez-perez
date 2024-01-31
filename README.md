@@ -1,4 +1,1 @@
-I’m a PhD math student at Uiversidad Nacional Autónoma de México. 
-My research focuses on the study of efficiency and synchronization in high-frequency digital markets through non-linear quantitative measures.
-Contact: mariolopper@gmail.com
-This repositories will be used to upload data and code used in my research.
+Data Scientist and Math Ph. D. with experience in both academy and business. I have knowledge on data management, statistical data analysis, data visualization, machine learning, finance, credit risk scoring and deployment of productive pipelines. My skills include strong logical reasoning, data-driven decision making and team work.
